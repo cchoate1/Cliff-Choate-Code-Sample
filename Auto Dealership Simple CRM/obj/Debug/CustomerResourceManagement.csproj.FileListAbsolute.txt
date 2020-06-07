@@ -1,0 +1,36 @@
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.csprojAssemblyReference.cache
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmCustomer.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmCRM.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\SDEV265___Layout.Form1.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmEmployees.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmInventory.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmLeads.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmMaintenanceOrders.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.frmPurchasing.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.csproj.GenerateResource.cache
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\bin\Debug\CustomerResourceManagement.exe.config
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\bin\Debug\CustomerResourceManagement.exe
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\bin\Debug\CustomerResourceManagement.pdb
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.Properties.Resources.resources
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.csproj.CoreCompileInputs.cache
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.exe
+C:\Users\NJMoo\Documents\Software Projects Class\SDEV265\src\obj\Debug\CustomerResourceManagement.pdb
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.csprojAssemblyReference.cache
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.exe
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.pdb
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmCustomer.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmCRM.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\SDEV265___Layout.Form1.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmEmployees.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmInventory.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmInventoryDetail.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmLeads.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmMaintenanceOrders.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmPurchasing.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.frmNewSalesOrder.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.Properties.Resources.resources
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.csproj.GenerateResource.cache
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\obj\Debug\CustomerResourceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\bin\Debug\CustomerResourceManagement.exe.config
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\bin\Debug\CustomerResourceManagement.exe
+C:\Users\Cliff\Desktop\New folder\SDEV265-master\SDEV265-master\src\bin\Debug\CustomerResourceManagement.pdb
