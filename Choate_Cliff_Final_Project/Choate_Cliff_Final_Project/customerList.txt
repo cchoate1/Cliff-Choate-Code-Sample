@@ -1,0 +1,4 @@
+1589705219|John|Smith|123 Fake St||Reno|NV|89689|(456)789-3456|jsmith@aol.com
+1589743497|Tommen|Jerry|123 Fake St||Topeka|KS|78967|(456) 345-7897|tJerry@aol.com
+1589743554|Halloway|Peter|456 1st Ave|Apt B|Eugene|OR|98765|(765)123-4567|phalloway@hotmail.com
+1589743614|Peter|Parker|456 Bleecker St|Apt 1435|New York|NY|09872|(212) 789-7276|spidey@dailyBugle.com
